@@ -8,7 +8,7 @@
 [![Quality](https://img.shields.io/codeclimate/github/jaredhanson/passport-twitter.svg?label=quality)](https://codeclimate.com/github/jaredhanson/passport-twitter)
 [![Dependencies](https://img.shields.io/david/jaredhanson/passport-twitter.svg)](https://david-dm.org/jaredhanson/passport-twitter)
 
-## AngularJs JavaScript Framework
+## AngularJs JavaScriptFramework
 
 Create Application With DataBinding, Filter, Directives, Modules, Controllers, Scopes, ServerCommunication, Routing, Spa, DependencyInjection, Animation, I18, Validation
 
